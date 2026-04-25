@@ -17,7 +17,7 @@
           "builder": "@angular/build:application",
           "options": {
             "baseHref": "/angularTest/",
-            "outputPath": "dist/menu-app",
+            "outputPath": "docs",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
